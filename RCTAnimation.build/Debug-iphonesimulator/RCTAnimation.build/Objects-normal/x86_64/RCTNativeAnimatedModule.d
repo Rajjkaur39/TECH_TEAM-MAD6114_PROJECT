@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/sanjeev/Documents/React/GlobalNews/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedModule.m \
+  /Users/sanjeev/Documents/React/GlobalNews/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedModule.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerObserverCoordinator.h \
+  /Users/sanjeev/Documents/React/GlobalNews/ios/build/newsApp/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerUtils.h \
+  /Users/sanjeev/Documents/React/GlobalNews/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/sanjeev/Documents/React/GlobalNews/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/sanjeev/Documents/React/GlobalNews/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h
